@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ 🐐 | Goat Bot V2 ]";
+const doNotDelete = "[ 🇨🇮°°𝑀𝐿𝐷°°🇨🇮 ]";
 /** 
 * @author NTKhang
 * @author: do not delete it
@@ -43,7 +43,9 @@ module.exports = {
 
 	langs: {
 		vi: {
-			help: "╭─────────────⭓"
+			help: ✪°°𝑅𝑂𝑌☆𝑆𝑇𝐸𝑉𝐸°°✪
+				
+				"╭─────────────⭓"
 				+ "\n%1"
 				+ "\n├─────⭔"
 				+ "\n│ Trang [ %2/%3 ]"
